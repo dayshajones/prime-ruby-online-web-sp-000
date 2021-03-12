@@ -7,4 +7,3 @@ def prime?(n)
         n % x == 0
     end
 end
-end
